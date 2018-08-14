@@ -11,8 +11,8 @@
     /// </summary>
     public class Constants
     {   
-        public const int OfficialApplicationId = 3502561;
-        public const string OfficialApplicationSecret = "omvP3y2MZmpREFZJDNHd";
+        public const int OfficialApplicationId = "";
+        public const string OfficialApplicationSecret = "";
         
         #region Per-user configuration
 
